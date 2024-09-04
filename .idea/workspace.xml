@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f2ff403-b8c9-4f47-8ab3-107483080aaf" name="Changes" comment="Added file TestLan2 and no code lines here :)))">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/QuanLyHocSinh.java" afterDir="false" />
-    </list>
+    <list default="true" id="5f2ff403-b8c9-4f47-8ab3-107483080aaf" name="Changes" comment="Thêm quản lý học sinh" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +45,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.MayTinhTay.executor": "Run",
+    "Application.QuanLyHocSinh.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -75,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725437854138</updated>
-      <workItem from="1725437855187" duration="763000" />
+      <workItem from="1725437855187" duration="1065000" />
     </task>
     <task id="LOCAL-00001" summary="Added file TestLan2 and no code lines here :)))">
       <option name="closed" value="true" />
@@ -93,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725438438703</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Thêm quản lý học sinh">
+      <option name="closed" value="true" />
+      <created>1725438719479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725438719479</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push file MayTinhXachTay JavaSwing" />
     <MESSAGE value="Added file TestLan2 and no code lines here :)))" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added file TestLan2 and no code lines here :)))" />
+    <MESSAGE value="Thêm quản lý học sinh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Thêm quản lý học sinh" />
   </component>
 </project>
